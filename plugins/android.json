@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.test.ngcordova"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.test.ngcordova"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.test.ngcordova"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.test.ngcordova"
+        }
+    },
+    "dependent_plugins": {}
+}
