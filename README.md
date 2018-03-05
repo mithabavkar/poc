@@ -1,4 +1,4 @@
-#Angular 4 + Cordova boilerplate
+#Angular 4 + Cordova boilerplate -- POC Application
 
 This project is using Angular 4 + Cordova boilerplate configurated. You can start building your great Hybrid Cordova Mobile Apps in Angular 4.
 
@@ -6,7 +6,7 @@ This project is using Angular 4 + Cordova boilerplate configurated. You can star
 
 * Install Node.js from: https://nodejs.org/en/download/
 * Install Cordova using: `npm install -g cordova`
-* Clone ngCordova repository: `https://github.com/mithabavkar/ng-four-hybid-app.git`
+* Clone ngCordova repository: `https://github.com/mithabavkar/poc.git`
 * Go to ngCordova repository: `cd project_name`
 * Install dependencies: `npm install`
 
